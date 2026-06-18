@@ -1,5 +1,0 @@
-
-    printf("-----------\n");
-    printf("%s\n", shll);
-    for(i=0;i<j;i++) printf("*%s*\n", varg[i]);
-    printf("-----------\n");
